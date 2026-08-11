@@ -2,7 +2,7 @@
 I am Bowen Chai.
 
 ### 📊 Stats 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bowenchai)](https://github.com/anuraghazra/github-readme-stats)
+[![Bowen Chai's GitHub stats](https://github-stats-extended.vercel.app/api?username=bowenchai)](https://github.com/stats-organization/github-stats-extended)
 
 <!---
 - 👋 Hi, I’m @oOo-w
